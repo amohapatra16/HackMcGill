@@ -1,0 +1,2 @@
+# HackMcGill
+HackMcGill: Hackathon Project
